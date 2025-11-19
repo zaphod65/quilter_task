@@ -3,6 +3,7 @@
 Implemented in PHP 8.3
 run `composer install`
 run `npm install && npm run build`
+run `php artisan migrate`
 run `php artisan key:gen`
 run `php artisan passport:install`
 
